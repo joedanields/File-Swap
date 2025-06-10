@@ -153,9 +153,7 @@ Feel free to enhance this program by:
 - Improving error messages
 - Adding logging capabilities
 
-## License
 
-This program is provided as-is for educational and practical use. Feel free to modify and distribute according to your needs.
 
 ## Version History
 
